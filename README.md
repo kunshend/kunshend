@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 你好，我是 Hankun！
 
-<!--
-**kunshend/kunshend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的 GitHub 主页！  
+我是一个计算机科学专业的学生，目前在 Dalhousie University 完成本科，主要方向是 **Web 开发、AI 与数据分析**。  
+这里会放一些我的课程项目、练习小作品，还有我正在折腾的各种想法。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 我的技能
+
+**前端开发**
+
+- HTML, CSS, JavaScript
+- 基础布局：Flex、Grid
+- 简单响应式页面、个人网站、静态主页
+
+**后端 & 其他**
+
+- Java（课堂项目 / 实验）
+- Python（数据处理、小工具）
+- C 语言 & 操作系统底层基础
+- 简单的 MySQL / SQLite 使用
+
+**工具 & 工作流**
+
+- Git & GitHub 基本操作
+- VS Code
+- 简单的 Linux 命令行
+
+> 正在一点点把课堂学的东西，变成真正能“跑起来、能上线”的小项目 🔧
+
+---
+
+## 📚 我正在学习
+
+- 更系统的 **前端开发**（HTML/CSS/JS → 框架）
+- 基础的 **算法与数据结构** 实战
+- 把学校课程项目整理成 **可展示的作品集**
+
+---
+
+## 🧩 一些小项目计划
+
+- 个人主页 / 博客网站（GitHub Pages）
+- 课程项目整理：Android 求职 App、网络与操作系统实验
+- AI / 数据分析方向的小练习（Python + 工业/传感器数据）
+
+---
+
+## 📫 联系我
+
+如果你有任何建议、想一起做点小项目，或者想聊聊出国读书、申请之类的话题，都可以找我。
+
+- ✉️ 邮箱：*（可以填你的邮箱，比如）* `yourname@example.com`
+- 🌐 个人网站：*（如果有的话，填上你的 GitHub Pages 链接，比如）* `https://kunshend.github.io`
+
+---
+
+感谢你翻到这里 😊  
+我还在慢慢充实这个主页，如果你愿意，可以给我点个 ⭐ star 或 follow，一起进步！
+
