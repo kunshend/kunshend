@@ -51,8 +51,8 @@
 
 如果你有任何建议、想一起做点小项目，或者想聊聊出国读书、申请之类的话题，都可以找我。
 
-- ✉️ 邮箱：*（可以填你的邮箱，比如）* `yourname@example.com`
-- 🌐 个人网站：*（如果有的话，填上你的 GitHub Pages 链接，比如）* `https://kunshend.github.io`
+- ✉️ 邮箱: donghank110@163.com
+- 🌐 个人网站：https://kunshend.github.io
 
 ---
 
