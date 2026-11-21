@@ -1,27 +1,27 @@
-## Hi, I'm Hankun 👋
+## 你好，我是 Hankun 👋
 
-Master's student in Computer Science (Data Science & AI). I like building things people can actually play and use: 3D web games, Android apps, and small data/AI tools.
+悉尼大学计算机专业硕士在读（数据科学与人工智能方向）。喜欢做真正能让人玩起来、用起来的东西：3D 网页游戏、安卓 App，以及数据 / AI 小工具。
 
-### ⭐ Featured projects
+### ⭐ 代表项目
 
-**[Roo Paint Party · 袋鼠涂涂乐](https://github.com/kunshend/roo-paint-party)** · project lead
-A 3D 4-vs-4 multiplayer kangaroo party game for phones, PC browsers and Windows (Steam release in preparation).
-New "Mango Grab" mode, 8 Australian maps, AI bots, online private rooms on a self-hosted Node.js WebSocket server, 10 languages, 8 original skins. Three.js, Node.js, Nginx, Electron. Showcase only; source is private.
+**[袋鼠涂涂乐（Roo Paint Party）](https://github.com/kunshend/roo-paint-party)** · 项目负责人
+3D 4对4 多人派对游戏，支持手机、电脑浏览器和 Windows 桌面版，正在准备上架 Steam。
+原创「蹦蹦抢芒果」玩法、8 张澳洲地图、人机对战、自建 Node.js WebSocket 服务器在线联机、10 种语言、8 款原创皮肤。技术：Three.js · Node.js · Nginx · Electron。（仅展示，源码不公开）
 
-**[Xiaozhu Blocks 3D](https://github.com/kunshend/xiaozhufangkuai)** · solo project
-A Three.js voxel puzzle game: coloured pigs shoot matching outer-layer blocks off a rotating 3D animal, peeling it layer by layer.
-10 levels with rising difficulty (up to ~4,200 cubes), `InstancedMesh` rendering, a Node.js difficulty simulator, and releases as an offline PWA, a Windows desktop build (Electron + GitHub Actions) and a WeChat Mini Game.
+**[小猪吃方块 3D](https://github.com/kunshend/xiaozhufangkuai)** · 个人项目
+基于 Three.js 的 3D 体素消除益智游戏：点彩色小猪，打掉旋转小动物身上同色的最外层方块，一层层拆开过关。
+10 个难度递增的关卡（最多约 4200 个方块），InstancedMesh 批量渲染，Node.js 难度模拟器调参；同时发布为离线 PWA 网页版、Windows 桌面版（Electron + GitHub Actions 自动构建）和微信小游戏。
 
-**[QuickCash](https://github.com/kunshend/quickCash_jobSearch)** · team project
-A location-based gig job Android app: post jobs, find nearby jobs on a map, apply, and pay through PayPal.
-Java, Firebase (Realtime Database, Auth, Cloud Messaging), Google Maps / Places, Espresso and JUnit tests, GitLab CI.
+**[QuickCash 零工求职 App](https://github.com/kunshend/quickCash_jobSearch)** · 团队项目
+基于位置的零工招聘安卓 App：发布工作、在地图上找附近的工作、申请，并通过 PayPal 付款。
+Java · Firebase（实时数据库、登录认证、消息推送）· Google Maps / Places · Espresso 和 JUnit 测试 · GitLab CI。
 
-### 🛠 Tech
+### 🛠 技术能力
 
-**Languages:** Python · Java · JavaScript · C · SQL · HTML/CSS
-**Frameworks & platforms:** Three.js · Node.js / WebSocket · Android · Firebase · Electron · PWA · WeChat Mini Game
-**Tools:** Git · GitHub Actions · GitLab CI · Linux · Nginx · Android Studio · VS Code
+**编程语言：** Python · Java · JavaScript · C · SQL · HTML/CSS
+**框架与平台：** Three.js · Node.js / WebSocket · Android · Firebase · Electron · PWA · 微信小游戏
+**工具：** Git · GitHub Actions · GitLab CI · Linux · Nginx · Android Studio · VS Code
 
-### 🌱 Currently
+### 🌱 目前在做
 
-Studying data science and machine learning, and polishing my projects into a portfolio.
+学习数据科学和机器学习，同时把自己的项目整理成作品集。
