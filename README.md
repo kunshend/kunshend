@@ -8,7 +8,7 @@
 3D 4对4 多人派对游戏，支持手机、电脑浏览器和 Windows 桌面版，正在准备上架 Steam。
 原创「蹦蹦抢芒果」玩法、8 张澳洲地图、人机对战、自建 Node.js WebSocket 服务器在线联机、10 种语言、8 款原创皮肤。技术：Three.js · Node.js · Nginx · Electron。（仅展示，源码不公开）
 
-**[小猪吃方块 3D](https://github.com/kunshend/xiaozhufangkuai)** · 个人项目
+**[小猪吃方块 3D](https://github.com/kunshend/xiaozhu-blocks-3d)** · 个人项目（仅展示，源码不公开）
 基于 Three.js 的 3D 体素消除益智游戏：点彩色小猪，打掉旋转小动物身上同色的最外层方块，一层层拆开过关。
 10 个难度递增的关卡（最多约 4200 个方块），InstancedMesh 批量渲染，Node.js 难度模拟器调参；同时发布为离线 PWA 网页版、Windows 桌面版（Electron + GitHub Actions 自动构建）和微信小游戏。
 
